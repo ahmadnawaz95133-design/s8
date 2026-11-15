@@ -1,2 +1,2 @@
-# s8
-update s7
+# S7
+According to template 
